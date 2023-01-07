@@ -1,10 +1,6 @@
 # crc32
 
-zlib実装 https://github.com/madler/zlib/blob/master/crc32.c
-
-/* CRC polynomial. */
-
-#define POLY 0xedb88320         /* p(x) reflected, with x^32 implied */
+zlib実装 https://github.com/madler/zlib/blob/master/crc32.c#L150
 
 ------
 
